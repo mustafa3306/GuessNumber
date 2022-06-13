@@ -1,4 +1,3 @@
-
 let myBtn = document.querySelector("button");
 let myInp = document.getElementById("inptBox");
 let myMsg = document.querySelector("h4");
